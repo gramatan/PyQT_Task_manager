@@ -32,3 +32,5 @@ Application Structure
 License
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+Font was taken from https://www.1001fonts.com/bruce-forever-font.html as Free for personal use(1001Fonts Free For Personal Use License (FFP))
+All Icons was created by AI.
